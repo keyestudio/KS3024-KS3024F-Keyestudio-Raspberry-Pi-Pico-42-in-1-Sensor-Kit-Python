@@ -2,7 +2,13 @@
 
 ![](/media/c7ff98e6cc4b0581dbd026be4b5bfa21.png)
 
-## 1. Description
+
+## Download Resources
+
+[https://fs.keyestudio.com/KS3024](https://fs.keyestudio.com/KS3024)
+
+
+## Description
 
 The Keyestudio Raspberry Pi Pico 42 in 1 sensor kit mainly contains 37 commonly used sensors/modules, a Raspberry Pi Pico board, a Raspberry Pi Pico expansion board and Dupont wires.
 
@@ -11,7 +17,7 @@ The 42 sensors and modules are fully compatible with the Raspberry Pi Pico shiel
 To make you master the electronic knowledge, detailed tutorials (Micropython), schematic diagrams, wiring methods and test code are included. Through these projects, you will have a better understanding about programming, logic and electronics.
 
 
-## 2. Kit
+## Kit
 
 |  #   |         Picture         |                            Name                            | QTY  |
 | :--: | :---------------------: | :--------------------------------------------------------: | :--: |
@@ -68,7 +74,7 @@ To make you master the electronic knowledge, detailed tutorials (Micropython), s
 
 
 
-## 3. Raspberry Pi Pico & Thonny
+## Raspberry Pi Pico & Thonny
 
 ![image-20231106153635259](media/image-20231106153635259.png)
 
@@ -141,7 +147,7 @@ You can also provide an external precision voltage-reference on the ADC_VREF pin
 | 30 GPIO pins, 4 of which can optionally be used as analog inputs |
 |    Drag-and-drop programming using mass storage over USB     |
 
-### Pin out
+ **Pin out**
 
 ![img](media/wps1-16992550818251.jpg)
 

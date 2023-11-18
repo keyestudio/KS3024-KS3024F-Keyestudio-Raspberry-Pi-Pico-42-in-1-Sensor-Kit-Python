@@ -6012,9 +6012,5 @@ Press the key for eighth time and the remainder is 0. Then the RGB will flash. I
 
 
 
-## Resources
-
-https://fs.keyestudio.com/KS3024
-
 
 

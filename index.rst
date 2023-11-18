@@ -6,7 +6,7 @@
    
    home.md
    Arduino/Arduino.md 
-   MicroPython/MicroPython.md
+   MicroPython/Micropython.md
    Raspberry Pi/Raspberry Pi.md
 
 

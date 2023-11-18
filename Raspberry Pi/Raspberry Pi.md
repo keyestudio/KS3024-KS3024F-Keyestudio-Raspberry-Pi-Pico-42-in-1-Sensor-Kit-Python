@@ -8545,7 +8545,3 @@ Press the key for seventh time and the remainder is 7. The shell will print out 
 Press the key for eighth time and the remainder is 0. Then the RGB will flash. If you press keys incessantly, remainders will change in loop way. So does functions.
 
 
-
-## Resources
-
-[https://fs.keyestudio.com/KS3024](https://fs.keyestudio.com/KS3024)
