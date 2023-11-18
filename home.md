@@ -17,7 +17,7 @@ The 42 sensors and modules are fully compatible with the Raspberry Pi Pico shiel
 To make you master the electronic knowledge, detailed tutorials (Micropython), schematic diagrams, wiring methods and test code are included. Through these projects, you will have a better understanding about programming, logic and electronics.
 
 
-## Kit
+## Kit list
 
 |  #   |         Picture         |                            Name                            | QTY  |
 | :--: | :---------------------: | :--------------------------------------------------------: | :--: |
