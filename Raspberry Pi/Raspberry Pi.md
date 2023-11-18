@@ -2878,7 +2878,7 @@ After running the test code, the Shell displays the corresponding UV value. When
 
 
 
-### **Project 30: SK6812 RGB Module**
+### Project 30: SK6812 RGB Module
 
 ![](/media/effda831f7c06cea2c443d8352f1a693.jpeg)
 
