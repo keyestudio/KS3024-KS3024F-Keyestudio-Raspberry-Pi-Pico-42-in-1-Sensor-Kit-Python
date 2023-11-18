@@ -4,7 +4,7 @@
 
 ## Preparations
 
-### 1. **Tools needed for the Raspberry Pi system**
+### 1. Tools needed for the Raspberry Pi system
 
 #### 1.1 Hardware Tool:
 
@@ -144,7 +144,7 @@ We use the 2020.08.20 version in the tutorial and recommend you to use this vers
 
 ![](/media/3e0526d601054847d1b1feee8384dbbe.png)
 
-### 2. **Install Raspberry Pi OS on Raspberry Pi**
+### 2. Install Raspberry Pi OS on Raspberry Pi
 
 Interface the TFT memory card with a card reader, then plug the card reader into a computer’s USB port.
 
@@ -861,7 +861,7 @@ while True:
 
 
 
-### **Project 3: Laser Sensor**
+### Project 3: Laser Sensor
 
 ![](/media/d5d84e9d26d2cc89772a05eed6340bc0.jpeg)
 
@@ -1299,7 +1299,7 @@ while True:
 
 
 
-### **Project 9: Tilt Module**
+### Project 9: Tilt Module
 
 ![](/media/9d4fcf498d8943539935d0f9638f22eb.jpeg)
 
@@ -3627,7 +3627,7 @@ After running the test code, the shell displays the temperature and humidity dat
 
 ![](/media/4e2b18ccaf4c3b1f956281049ad7d8cb.png)
 
-### Project 37: **DS1307 Clock Module**
+### Project 37: DS1307 Clock Module
 
 ![](/media/949abbbea3c8d8b36463768a39a07b51.png)
 
@@ -3911,7 +3911,7 @@ while True:
 
 
 
-### Project 39: **TM1650 4-Digit Tube Display**
+### Project 39: TM1650 4-Digit Tube Display
 
 ![](/media/f698ea56391906278b7c8064fca42bb3.jpeg)
 
@@ -4171,7 +4171,7 @@ Run the test code, wire up and power on. The 4-digit tube display will show inte
 
 ![](/media/4c2b3c3bb6c08f4213b4b82d1ea65b13.jpeg)
 
-### Project 40: **HT16K33\_8X8 Dot Matrix Module**
+### Project 40: HT16K33\_8X8 Dot Matrix Module
 
 ![](/media/431b6c4abd63b99219658a03d24de991.jpeg)
 
@@ -6372,7 +6372,7 @@ After programming, the LED flashes slowly, the detector starts to work, and the 
 
 
 
-### **Project 48: Speaker Module**
+### Project 48: Speaker Module
 
 ![](/media/7009513ee4deade529bb95ea74dfe58e.jpeg)
 
@@ -6587,7 +6587,7 @@ Wire up and upload the test code，the shell shows the flame value. When this va
 
 ![](/media/214df0d7e498c73436e25052ce461fdd.png)
 
-### **Project** 50: Rotary Encoder
+### Project 50: Rotary Encoder
 
 ![](/media/c6b4f1cedef06ed68d1c2e5ccf5c17d2.jpeg)
 
@@ -6674,7 +6674,7 @@ Wire up, run the code and open the serial monitor. Rotate the knob of the rotary
 
 ![](/media/6894e2afd1eb7e150457048e0174adf8.png)
 
-### **Project 51: Rotary Potentiometer**
+### Project 51: Rotary Potentiometer
 
 ![](/media/f71165ab140ae6b2aac093dc75785c96.jpeg)
 
@@ -6811,7 +6811,7 @@ Wire up and run the test code. When the sensor detects a certain amount of water
 
 ![](/media/d9aa58963d4cad639b9b77adb718446c.jpeg)
 
-### **Project 53: Sound Activated Light**
+### Project 53: Sound Activated Light
 
 ![](/media/f3ddb58e83a92a888d3e1d66f7456170.png)
 
@@ -7539,7 +7539,7 @@ Wire up, run the test code. Then the four lamp beads will display flowing lights
 
 ![](/media/edf1b4bd96e8dc5857d193c2ed109557.jpeg)
 
-### **Project 58: Ultrasonic Radar**
+### Project 58: Ultrasonic Radar
 
 ![](/media/19a7c30e24f0ec39da94912c5535b791.png)
 
@@ -7819,7 +7819,7 @@ Wire up according to the connection diagram upload the run the code and power up
 
 ![](/media/1f3599fe54a1f53bf6eae6eab27c600d.jpeg)
 
-### **Project 59: IR Remote Control**
+### Project 59: IR Remote Control
 
 ![](/media/6e823de7db355fde0bc5fcb7c1cdc705.jpeg)
 
