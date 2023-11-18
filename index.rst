@@ -1,11 +1,13 @@
 
 .. toctree::
-   :maxdepth: 5
-   :caption: KS3024(KS3024F) Keyestudio Raspberry Pi Pico 42 in 1 Sensor Kit Python
+   :maxdepth: 3
+   :caption: KS3024 Keyestudio Raspberry Pi Pico 42 in 1 Sensor Kit 
 
-   MicroPython/KS3024(KS3024F) Keyestudio Raspberry Pi Pico 42 in 1 Sensor Kit-Micropython.md
-
-
+   
+   home.md
+   Arduino/Arduino.md 
+   MicroPython/MicroPython.md
+   Raspberry Pi/Raspberry Pi.md
 
 
 
